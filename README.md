@@ -37,7 +37,7 @@ Then run the following command to link the react-native-vector-icons package
 Import the component:
 
 ```javascript
-    import Bar from 'react-native-bar-collapsible';
+    import Bar from 'react-native-bar-collapsible-plus';
 ```
 
 **Text Only**:
