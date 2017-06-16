@@ -13,7 +13,7 @@ width="250"/>
 Install the package via npm:
 
 ```javascript
-    npm i react-native-bar-collapsible --save
+    npm i react-native-bar-collapsible-plus --save
 ```
 
 The [React Native Vector Icons](https://github.com/oblador/react-native-vector-icons)
