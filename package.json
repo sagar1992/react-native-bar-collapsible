@@ -1,6 +1,6 @@
 {
   "name": "react-native-bar-collapsible-plus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "It's a React Native bar component with different interactions: Text Only, Clickable, Collapsible.",
   "main": "BarCollapsible.js",
   "dependencies": {},
