@@ -1,28 +1,21 @@
 {
-  "name": "react-native-bar-collapsible",
-  "version": "1.5.1",
-  "description": "React Native bar component could be read-only, clickable or collapsible",
+  "name": "react-native-bar-collapsible-plus",
+  "version": "1.0.0",
+  "description": "It's a React Native bar component with different interactions: Text Only, Clickable, Collapsible.",
   "main": "BarCollapsible.js",
+  "dependencies": {},
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/caroaguilar/react-native-bar-collapsible.git"
+    "url": "git+https://github.com/sagar1992/react-native-bar-collapsible.git"
   },
-  "keywords": [
-    "react-native",
-    "bar",
-    "accordion",
-    "collapsible"
-  ],
-  "author": "Carolina Aguilar Segura",
-  "license": "Apache 2.0",
+  "author": "Sagar Pathak; Caro Aguilar",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/caroaguilar/react-native-bar-collapsible/issues"
+    "url": "https://github.com/sagar1992/react-native-bar-collapsible/issues"
   },
-  "homepage": "https://github.com/caroaguilar/react-native-bar-collapsible#readme",
-  "dependencies": {
-    "react-native-vector-icons": "^3.0.0"
-  }
+  "homepage": "https://github.com/sagar1992/react-native-bar-collapsible#readme"
 }
