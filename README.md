@@ -4,9 +4,9 @@
 It's a React Native bar component with different interactions: Text Only,
 Clickable, Collapsible.
 
-<img src="https://github.com/sagar1992/images-gifs/raw/master/react-native-bar-collapsible-plus/device-2017-06-16-102309.png" width="250"/>
-<img src="https://github.com/sagar1992/images-gifs/raw/master/react-native-bar-collapsible-plus/device-2017-06-16-102336.png"
-width="250"/>
+| --- | --- |
+| <img src="https://github.com/sagar1992/images-gifs/raw/master/react-native-bar-collapsible-plus/device-2017-06-16-102309.png" width="250"/> | <img src="https://github.com/sagar1992/images-gifs/raw/master/react-native-bar-collapsible-plus/device-2017-06-16-102336.png"
+width="250"/> |
 
 ## Install
 
