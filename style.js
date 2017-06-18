@@ -1,27 +1,26 @@
-import { StyleSheet } from 'react-native';
+import { StyleSheet } from "react-native";
 
 module.exports = StyleSheet.create({
-    bar: {
-        alignItems: 'center',
-        alignSelf: 'stretch',
-        backgroundColor: '#333',
-        flexDirection: 'row',
-        height: 45,
-    },
+  bar: {
+    alignItems: "center",
+    alignSelf: "stretch",
+    backgroundColor: "#333",
+    flexDirection: "row",
+    height: 45
+  },
 
-    barWrapper: {
-        alignSelf: 'stretch',
-    },
+  barWrapper: {
+    alignSelf: "stretch"
+  },
 
-    icon: {
-        padding: 5,
-        width: 40
-    },
+  icon: {
+    padding: 5,
+    width: 30
+  },
 
-    title: {
-        color: '#FFF',
-        flex: 1,
-        fontSize: 15,
-        paddingLeft: 15
-    }
+  title: {
+    color: "#FFF",
+    flex: 1,
+    fontSize: 15
+  }
 });

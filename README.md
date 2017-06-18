@@ -4,16 +4,14 @@
 It's a React Native bar component with different interactions: Text Only,
 Clickable, Collapsible.
 
-
-<img src="https://github.com/sagar1992/images-gifs/raw/master/react-native-bar-collapsible-plus/device-2017-06-16-102309.png" width="250"/> <img src="https://github.com/sagar1992/images-gifs/raw/master/react-native-bar-collapsible-plus/device-2017-06-16-102336.png"
-width="250"/> 
+![demo](https://raw.githubusercontent.com/caroaguilar/images-gifs/master/react-native-bar-collapsible/demo.gif)
 
 ## Install
 
 Install the package via npm:
 
 ```javascript
-    npm i react-native-bar-collapsible-plus --save
+    npm i react-native-bar-collapsible --save
 ```
 
 The [React Native Vector Icons](https://github.com/oblador/react-native-vector-icons)
@@ -37,7 +35,7 @@ Then run the following command to link the react-native-vector-icons package
 Import the component:
 
 ```javascript
-    import Bar from 'react-native-bar-collapsible-plus';
+    import Bar from 'react-native-bar-collapsible';
 ```
 
 **Text Only**:

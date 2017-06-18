@@ -1,21 +1,83 @@
 {
-  "name": "react-native-bar-collapsible-plus",
-  "version": "1.0.1",
-  "description": "It's a React Native bar component with different interactions: Text Only, Clickable, Collapsible.",
-  "main": "BarCollapsible.js",
-  "dependencies": {},
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "_args": [
+    [
+      {
+        "raw": "react-native-bar-collapsible-plus",
+        "scope": null,
+        "escapedName": "react-native-bar-collapsible-plus",
+        "name": "react-native-bar-collapsible-plus",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "D:\\Documents\\Projects\\react\\uReporting"
+    ]
+  ],
+  "_from": "react-native-bar-collapsible-plus@latest",
+  "_id": "react-native-bar-collapsible-plus@1.0.0",
+  "_inCache": true,
+  "_location": "/react-native-bar-collapsible-plus",
+  "_nodeVersion": "7.4.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/react-native-bar-collapsible-plus-1.0.0.tgz_1497520596817_0.8792956362012774"
   },
+  "_npmUser": {
+    "name": "sagar1992",
+    "email": "surfer.sagar@gmail.com"
+  },
+  "_npmVersion": "4.1.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-bar-collapsible-plus",
+    "scope": null,
+    "escapedName": "react-native-bar-collapsible-plus",
+    "name": "react-native-bar-collapsible-plus",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-bar-collapsible-plus/-/react-native-bar-collapsible-plus-1.0.0.tgz",
+  "_shasum": "3b2c4417d1e6a1cde1a0e6dbec844c60bff1f536",
+  "_shrinkwrap": null,
+  "_spec": "react-native-bar-collapsible-plus",
+  "_where": "D:\\Documents\\Projects\\react\\uReporting",
+  "author": {
+    "name": "Sagar Pathak; Caro Aguilar"
+  },
+  "bugs": {
+    "url": "https://github.com/sagar1992/react-native-bar-collapsible/issues"
+  },
+  "dependencies": {},
+  "description": "It's a React Native bar component with different interactions: Text Only, Clickable, Collapsible.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "3b2c4417d1e6a1cde1a0e6dbec844c60bff1f536",
+    "tarball": "https://registry.npmjs.org/react-native-bar-collapsible-plus/-/react-native-bar-collapsible-plus-1.0.0.tgz"
+  },
+  "homepage": "https://github.com/sagar1992/react-native-bar-collapsible#readme",
+  "license": "ISC",
+  "main": "BarCollapsible.js",
+  "maintainers": [
+    {
+      "name": "sagar1992",
+      "email": "surfer.sagar@gmail.com"
+    }
+  ],
+  "name": "react-native-bar-collapsible-plus",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sagar1992/react-native-bar-collapsible.git"
   },
-  "author": "Sagar Pathak; Caro Aguilar",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sagar1992/react-native-bar-collapsible/issues"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/sagar1992/react-native-bar-collapsible#readme"
+  "version": "1.0.0"
 }
