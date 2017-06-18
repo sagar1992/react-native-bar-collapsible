@@ -15,12 +15,12 @@ module.exports = StyleSheet.create({
 
   icon: {
     padding: 5,
-    width: 30
+    width: 20
   },
 
   title: {
     color: "#FFF",
     flex: 1,
-    fontSize: 15
+    fontSize: 14
   }
 });

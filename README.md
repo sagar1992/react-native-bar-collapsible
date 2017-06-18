@@ -81,20 +81,35 @@ You need to pass the properties:
 
 ```jsx
 <Bar
-    title='My title'
-    collapsible={true}
-    showOnStart={false}
-    iconCollapsed='plus'
-    iconOpened='minus'
+	title='My title'
+	style={{
+	  backgroundColor: "transparent",
+	  height: 16
+	}}
+	titleStyle={{ color: "#000" }}
+	tintColor="#BBB"
+	collapsible={true}
+	showOnStart={false}
+	iconCollapsed="plus"
+	iconOpened="minus"
+	onPressed={() => this._myFunction()}
     children={<OtherComponent/>}/>
 
 // or
 
 <Bar
-    title='My title'
-    collapsible={true}
-    showOnStart={true}
-    iconCollapsed='plus'
+	title='My title'
+	style={{
+	  backgroundColor: "transparent",
+	  height: 16
+	}}
+	titleStyle={{ color: "#000" }}
+	tintColor="#BBB"
+	collapsible={true}
+	showOnStart={false}
+	iconCollapsed="plus"
+	iconOpened="minus"
+	onPressed={() => this._myFunction()}
     iconOpened='minus'
 >
   <OtherComponent />
