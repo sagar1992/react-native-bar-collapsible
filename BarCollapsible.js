@@ -12,7 +12,7 @@ class BarCollapsible extends Component {
     super(props);
     this.state = {
       fadeAnim: new Animated.Value(0),
-      icon: "angle-right",
+      icon: "plus",
       onPressed: null,
       title: "",
       children: null,
